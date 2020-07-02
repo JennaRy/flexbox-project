@@ -133,9 +133,10 @@ body {
 }
 
 #content p span {
-    font-family: 'Lora', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.3em;
 }
-
+/*font-family: 'Yellowtail', cursive;*/
 
 
 
